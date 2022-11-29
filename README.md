@@ -25,7 +25,11 @@ HSCi | xi1, xi2, xi3, xi4, β0, β1, β2, β3, β4, σε ~ N(β0 + β1xi1 + β2x
 
 MHIi | xi1, xi2, xi3, xi4, β0, β1, β2, β3, β4, σε ~ N(β0 + β1xi1 + β2xi2 + β3xi3 + β4xi4, σε)	(6)
 
-(https://user-images.githubusercontent.com/86257471/204576559-554e1676-cdf5-4774-9905-bdf6c2d79b63.png)
+<img width="435" alt="Screen Shot 2022-11-29 at 10 51 54 AM" src="https://user-images.githubusercontent.com/86257471/204577379-b6d12549-7a33-448e-aa02-ef86c1fbea71.png">
+
+<img width="449" alt="Screen Shot 2022-11-29 at 10 52 05 AM" src="https://user-images.githubusercontent.com/86257471/204577424-d643a913-b994-49a9-b4e0-1de010fc2e24.png">
+
+<img width="428" alt="Screen Shot 2022-11-29 at 10 52 10 AM" src="https://user-images.githubusercontent.com/86257471/204577448-07090f5d-fc1b-4086-97c6-e05eb36be7c8.png">
 
 
 Moreover, I employed diffuse prior distributions for β0 and σε: β0 ~ N(0, 30); σε ~ Exponential(1). However, based on findings from meta-analyses on the association between racial discrimination and mental health for Asian Americans (Lee & Ahn, 2011) and racial minorities generally (Paradies et al., 2015), I specified more informative prior distributions for the four COVID-19-related racial discrimination predictors: βj ~ N(.23, .03), where j = 1, 2, 3, 4). For each model, four chains were run for 5,000 iterations following a warmup period of 1,000 iterations.
