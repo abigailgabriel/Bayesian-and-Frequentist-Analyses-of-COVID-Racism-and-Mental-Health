@@ -4,7 +4,7 @@ The weaponization of COVID-19 to produce anti-Chinese rhetoric has resulted in a
 
 ## Frequentist Multiple Regression Analyses
 
-Three frequentist multiple linear regression analyses were performed to test the hypothesis that COVID-19-related discrimination would predict poorer mental health fior Asian American adults across three outcome variables: the Brief Hypervigilance Scale, Hopkins Symptom Checklist, and Mental Health Inventory. Each multiple regression model contained the following four COVID-19-related racial discrimination predictors: Personal Experience of Racial Cyber-Aggression (PERCA); Online-Mediated Exposure to Racist Reality (OMERR); Vicarious Exposure to Racial Cyber-Aggression (VERCA); and Exposure to COVID-19-Specific Racism (COVID). These three multiple regression models are represented by the following equations:  
+Three frequentist multiple linear regression analyses were performed to test the hypothesis that COVID-19-related discrimination would predict poorer mental health for Asian American adults across three outcome variables: the Brief Hypervigilance Scale, Hopkins Symptom Checklist, and Mental Health Inventory. Each multiple regression model contained the following four COVID-19-related racial discrimination predictors: Personal Experience of Racial Cyber-Aggression (PERCA); Online-Mediated Exposure to Racist Reality (OMERR); Vicarious Exposure to Racial Cyber-Aggression (VERCA); and Exposure to COVID-19-Specific Racism (COVID). These three multiple regression models are represented by the following equations:  
 
 BHSi = β0 + β1PERCAi + β2OMERRi + β3VERCAi + β4COVIDi + εi 		(1)
 
